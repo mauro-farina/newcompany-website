@@ -1,8 +1,5 @@
 # Creativity
 
-l’impostazione grafica (home page, singole sezioni, funzioni di navigazione), i percorsi.  
-(Per la rappresentazione utilizzare uno strumento a scelta)
-
 ### Requisiti di front-end
  Trattandosi di un sito composto da sole pagine statiche, è prevista quasi esclusivamente programmazione front-end con linguaggi html e css per organizzare i contenuti nella pagina.
 
@@ -28,35 +25,39 @@ l’impostazione grafica (home page, singole sezioni, funzioni di navigazione), 
 
 ### Percorsi
 
-├── **html**
-│   ├── *index.html*
-│   ├── *storia.html*
-│   ├── *logistica.html*
-│   ├── *contatti.html*
-│   ├── prodotti
-│   │   ├── *index.html*
-│   │   ├── **felpe**
-│   │   │   ├── *felpa_2021.html*
-│   │   │   ├── *felpa_2022.html*
-│   │   ├── **berretti**
-│   │   │   ├── *berretto_2021.html*
-│   │   │   ├── *berretto_2022.html*
-│   │   ├── **sciarpe**
-│   │   │   ├── *sciarpa_2021.html*
-│   │   │   ├── *sciarpa_2022.html*
-│   │   ├── **pantaloni**
-│   │   │   ├── *pantaloni_2021.html*
-│   │   │   ├── *pantaloni_2022.html*
-├── **public**
-│   ├── **css**
-│   │   ├── *style.css*
-│   ├── **images**
-│   │   ├── *logo.png*
-│   │   ├── *felpa_2021.png*
-│   │   ├── *felpa_2022.png*
-│   │   ├── *berretto_2021.png*
-│   │   ├── *berretto_2022.png*
-│   │   ├── *sciarpa_2021.png*
-│   │   ├── *sciarpa_2022.png*
-│   │   ├── *pantaloni_2021.png*
-│   │   ├── *pantaloni_2022.png*
+├── **html**  
+│   ├── *index.html*  
+│   ├── *storia.html*  
+│   ├── *logistica.html*  
+│   ├── *contatti.html*  
+│   ├── prodotti  
+│   │   ├── *index.html*  
+│   │   ├── **felpe**  
+│   │   │   ├── *felpa_2021.html*  
+│   │   │   ├── *felpa_2022.html*  
+│   │   ├── **berretti**  
+│   │   │   ├── *berretto_2021.html*  
+│   │   │   ├── *berretto_2022.html*  
+│   │   ├── **sciarpe**  
+│   │   │   ├── *sciarpa_2021.html*  
+│   │   │   ├── *sciarpa_2022.html*  
+│   │   ├── **pantaloni**  
+│   │   │   ├── *pantaloni_2021.html*  
+│   │   │   ├── *pantaloni_2022.html*  
+├── **public**  
+│   ├── **css**  
+│   │   ├── *style.css*  
+│   ├── **images**  
+│   │   ├── *logo.png*  
+│   │   ├── *felpa_2021.png*  
+│   │   ├── *felpa_2022.png*  
+│   │   ├── *berretto_2021.png*  
+│   │   ├── *berretto_2022.png*  
+│   │   ├── *sciarpa_2021.png*  
+│   │   ├── *sciarpa_2022.png*  
+│   │   ├── *pantaloni_2021.png*  
+│   │   ├── *pantaloni_2022.png*  
+
+### Impostazione grafica
+
+home page, singole sezioni, funzioni di navigazione
