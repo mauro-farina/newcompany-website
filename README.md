@@ -17,5 +17,4 @@ Il minisito “vetrina” deve contenere almeno le pagine necessarie a presentar
 - 1 pagina per linea di prodotto contenente l’elenco dei prodotti della linea
 - 1 pagina (o più pagine) contenente la scheda tecnica del prodotto (caratteristiche, immagine, prezzo, ecc.)
 
-
-    Tutte le immagini utilizzate hanno licenza Creative Commons e non sono usate a fini di lucro
+Tutte le immagini utilizzate hanno licenza Creative Commons e non sono usate a fini di lucro
