@@ -1,39 +1,3 @@
-###### Heading level 6 (small)
-
-# Heading level 1 (big)
-
-### To create paragraphs, use a blank line to separate one or more lines of text.
-
-Don't put tabs or spaces in front of your paragraphs.
-
-Keep lines left-aligned like this.
-
-### To create a line break or new line (<br>), end a line with two or more spaces, and then type return.
-
-This is the first line.  
-And this is the second line.  
-I just love **bold text**, not so much *Italicized*.
-
-### Lists
-
-##### Unordered list
-
-- First item
-- Second item
-- Third item
-- Fourth item 
-
-##### Ordered list
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item 
-
-### Horizontal rule below
-
-***
-
 # Progetto
 
 L’azienda di software NewSoft ha ricevuto la commessa per la costruzione del portale Internet ed Intranet dell’azienda Newcompany.  
@@ -55,24 +19,24 @@ Il minisito “vetrina” deve contenere almeno le pagine necessarie a presentar
 
 # Concept
 
-Analisi degli obiettivi, la disponibilità dei contenuti, definire la linea guida di comunicazione.
+### Team di sviluppo
+
+Progetto dalle dimensioni contenute, è quindi assegnato un solo programmatore junior
+- Mauro Farina
+
+### Disponibilità dei contenuti
+
+Newcompany si è resa disponibile a partecipare a più interviste per definire obiettivi e contenuti del sito e valutare eventuali impostazioni grafiche alternative.
 
 ### Obiettivi
 
 - Esporre i prodotti venduti dalla azienda Newcompany ("come una vetrina")
 - Attirare clienti presso i negozi fisici
 - Far conoscere ai visitatori del sito l'azienda e la sua storia
-- Esaltare i valori che contraddistinguono Newcompany
-- Fornire informazioni di contatto di Newcompany
+- Esaltare i valori che contraddistinguono Newcompany dalla concorrenza
+- Fornire le informazioni di contatto di Newcompany
 
-### Disponibilità dei contenuti
+### Linea guida di comunicazione
 
-# Creativity
-
-Definire i requisiti di front-end, i contenuti, 
-l’impostazione grafica (home page, singole sezioni, funzioni di navigazione), i percorsi.  
-(Per la rappresentazione utilizzare uno strumento a scelta)
-
-# Content
-
-Raccogliere ed elaborare il materiale, sviluppare le pagine statiche
+- Interfaccia semplice, minimalista
+- Presenza del colore aziendale all'interno delle pagine (azzurro)
