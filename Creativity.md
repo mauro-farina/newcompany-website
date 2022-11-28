@@ -45,10 +45,11 @@
 │   │   │   ├── *pantaloni_2021.html*  
 │   │   │   ├── *pantaloni_2022.html*  
 ├── **public**  
-│   ├── **css**  
+│   ├── **css** *  
 │   │   ├── *style.css*  
-│   ├── **images**  
+│   ├── **images** *  
 │   │   ├── *logo.png*  
+│   │   ├── *company_image.png*  
 │   │   ├── *felpa_2021.png*  
 │   │   ├── *felpa_2022.png*  
 │   │   ├── *berretto_2021.png*  
@@ -58,6 +59,8 @@
 │   │   ├── *pantaloni_2021.png*  
 │   │   ├── *pantaloni_2022.png*  
 
+    * potrebbero esserci ulteriori risorse dovessero rivelarsi necessarie in fase di codifica
+
 ### Impostazione grafica
 
-home page, singole sezioni, funzioni di navigazione
+![Template della homepage del sito di Newcompany](template_homepage_newcompany.PNG)
