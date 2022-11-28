@@ -20,4 +20,4 @@ Newcompany si è resa disponibile a partecipare a più interviste per definire o
 ### Linea guida di comunicazione
 
 - Interfaccia semplice, minimalista
-- Presenza del colore aziendale all'interno delle pagine (azzurro)
+- Presenza del colore aziendale all'interno delle pagine (azzurro #00a3ff)
