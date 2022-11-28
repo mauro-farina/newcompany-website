@@ -1,4 +1,4 @@
-# Progetto
+# Progetto per il corso "Progettazione Software e Sistemi Informativi"
 
 L’azienda di software NewSoft ha ricevuto la commessa per la costruzione del portale Internet ed Intranet dell’azienda Newcompany.  
 Le attività coinvolgono circa 20 dipendenti della Newcompany distribuiti in 8 diversi ruoli.  
