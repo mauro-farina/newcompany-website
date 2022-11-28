@@ -1,4 +1,4 @@
-# Progetto per il corso "Progettazione Software e Sistemi Informativi"
+## Progetto per il corso "Progettazione Software e Sistemi Informativi"
 
 L’azienda di software NewSoft ha ricevuto la commessa per la costruzione del portale Internet ed Intranet dell’azienda Newcompany.  
 Le attività coinvolgono circa 20 dipendenti della Newcompany distribuiti in 8 diversi ruoli.  
@@ -16,3 +16,6 @@ Il minisito “vetrina” deve contenere almeno le pagine necessarie a presentar
 - 1 pagina per presentare le linee di prodotti
 - 1 pagina per linea di prodotto contenente l’elenco dei prodotti della linea
 - 1 pagina (o più pagine) contenente la scheda tecnica del prodotto (caratteristiche, immagine, prezzo, ecc.)
+
+
+    Tutte le immagini utilizzate hanno licenza Creative Commons e non sono usate a fini di lucro
