@@ -25,6 +25,9 @@ nav a {
     padding-top: 30px;
 }
 
+.active-page {
+    text-decoration: underline !important;
+}
 
 @media screen and (max-width: 900px) {
     nav {
