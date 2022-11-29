@@ -4,6 +4,9 @@
 
 body {
     margin: 0;
+}
+
+.homepage-body {
     background-image: url('../images/company_image.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -34,9 +37,35 @@ nav a {
     padding-top: 30px;
 }
 
+/*
+
+.linee-prodotti {
+    margin-left: 10%;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+        "linea-prodotto-1 linea-prodotto-2"
+        "linea-prodotto-3 linea-prodotto-4";
+}
+
+#linea-prodotto-1 {
+    grid-area: prodotto-1;
+}
+#linea-prodotto-2 {
+    grid-area: prodotto-2;
+}
+#linea-prodotto-3 {
+    grid-area: prodotto-3;
+}
+#linea-prodotto-4 {
+    grid-area: prodotto-4;
+}
+*/
+
 @media screen and (max-width: 850px) {
     nav {
-
         flex-direction: column;
         justify-content: flex-start;
         flex-wrap: wrap;
@@ -54,4 +83,14 @@ nav a {
         flex-grow: 2;
         padding-top: 10px;
     }
+/*
+    .linee-prodotti {
+        margin-left: 1%;
+        width: 98%;
+        grid-template-areas:
+            "prodotto-1"
+            "prodotto-2"
+            "prodotto-3"
+            "prodotto-4";
+    } */
 }
