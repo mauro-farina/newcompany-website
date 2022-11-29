@@ -30,7 +30,7 @@
 │   ├── *storia.html*  
 │   ├── *logistica.html*  
 │   ├── *contatti.html*  
-│   ├── prodotti  
+│   ├── **prodotti**  
 │   │   ├── *index.html*  
 │   │   ├── **felpe**  
 │   │   │   ├── *felpa_2021.html*  
