@@ -10,8 +10,6 @@
     padding-top: 5%;
 }
 
-/*
-
 .linee-prodotti {
     margin-left: 10%;
     width: 80%;
@@ -24,29 +22,34 @@
 }
 
 #linea-prodotto-1 {
-    grid-area: prodotto-1;
+    grid-area: linea-prodotto-1;
 }
 #linea-prodotto-2 {
-    grid-area: prodotto-2;
+    grid-area: linea-prodotto-2;
 }
 #linea-prodotto-3 {
-    grid-area: prodotto-3;
+    grid-area: linea-prodotto-3;
 }
 #linea-prodotto-4 {
-    grid-area: prodotto-4;
+    grid-area: linea-prodotto-4;
 }
-*/
+
+.immagine-prodotto {
+    width: 300px;
+}
+
 
 @media screen and (max-width: 850px) {
-/*
+
     .linee-prodotti {
-        margin-left: 1%;
-        width: 98%;
+        margin-left: 15%;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr;
         grid-template-areas:
-            "prodotto-1"
-            "prodotto-2"
-            "prodotto-3"
-            "prodotto-4";
-    } */
-    
+            "linea-prodotto-1"
+            "linea-prodotto-2"
+            "linea-prodotto-3"
+            "linea-prodotto-4";
+    }
+
 }
