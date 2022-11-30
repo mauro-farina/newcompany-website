@@ -41,12 +41,12 @@
 }
 
 .prodotto-img {
-    
     text-align: center;
+    max-width: fit-content;
 }
 
 .prodotto-img img {
-    max-height: 100%;
+    width: 350px;
 }
 
 .prodotto-descr {
