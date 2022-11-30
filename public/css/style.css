@@ -1,6 +1,6 @@
 .homepage-body {
     background-image: url('../images/company_image.jpg') !important;
-    background-size: 100% auto;
+    background-size: auto;
     background-repeat: no-repeat;
 }
 
@@ -56,6 +56,10 @@
             "linea-prodotto-2"
             "linea-prodotto-3"
             "linea-prodotto-4";
+    }
+
+    #homepage-text {
+        font-size: x-large;
     }
 
 }
