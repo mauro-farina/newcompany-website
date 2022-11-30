@@ -12,6 +12,8 @@
 
 .linee-prodotti {
     margin-left: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
     width: 80%;
     display: grid;
     grid-template-columns: 1fr 1fr;
