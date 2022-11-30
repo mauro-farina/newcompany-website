@@ -32,18 +32,10 @@
 │   ├── *contatti.html*  
 │   ├── **prodotti**  
 │   │   ├── *index.html*  
-│   │   ├── **felpe**  
-│   │   │   ├── *felpa_2021.html*  
-│   │   │   ├── *felpa_2022.html*  
-│   │   ├── **berretti**  
-│   │   │   ├── *berretto_2021.html*  
-│   │   │   ├── *berretto_2022.html*  
-│   │   ├── **sciarpe**  
-│   │   │   ├── *sciarpa_2021.html*  
-│   │   │   ├── *sciarpa_2022.html*  
-│   │   ├── **pantaloni**  
-│   │   │   ├── *pantaloni_2021.html*  
-│   │   │   ├── *pantaloni_2022.html*  
+│   │   ├── *felpe.html*  
+│   │   ├── *berretti.html*  
+│   │   ├── *sciarpe.html*  
+│   │   ├── *pantaloni.html*  
 ├── **public**  
 │   ├── **css** *  
 │   │   ├── *style.css*  
