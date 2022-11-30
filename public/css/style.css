@@ -50,7 +50,16 @@
 }
 
 .prodotto-descr {
-    
+    font-size: large;
+}
+
+.prodotto-descr th {
+    font-size: larger;
+}
+
+.eco {
+    color: forestgreen;
+    text-transform: uppercase;
 }
 
 .linee-prodotti {
