@@ -21,6 +21,10 @@
         "linea-prodotto-3 linea-prodotto-4";
 }
 
+.linee-prodotti div {
+    text-align: center;
+}
+
 #linea-prodotto-1 {
     grid-area: linea-prodotto-1;
 }
