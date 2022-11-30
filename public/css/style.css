@@ -1,5 +1,5 @@
 .homepage-body {
-    background-image: url('../images/company_image.jpg');
+    background-image: url('../images/company_image.jpg') !important;
     background-size: 100% auto;
     background-repeat: no-repeat;
 }
