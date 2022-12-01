@@ -96,14 +96,14 @@
     width: 300px;
 }
 
-.company-history {
+.section-content-split-two {
     display: flex;
     align-items: flex-start;
     flex-wrap: nowrap;
     gap: 20px;
 }
 
-.company-history img {
+.company-history-img {
     width: 400px;
 }
 
