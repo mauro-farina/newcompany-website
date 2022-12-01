@@ -10,11 +10,15 @@
     padding-top: 5%;
 }
 
-.lista-prodotti {
+.section-contentful {
     margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 80%;
+}
+
+.lista-prodotti {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
@@ -63,10 +67,6 @@
 }
 
 .linee-prodotti {
-    margin-left: 10%;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    width: 80%;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
@@ -97,9 +97,6 @@
 }
 
 .company-history {
-    margin-top: 50px;
-    margin-left: 10%;
-    margin-right: 10%;
     display: flex;
     align-items: flex-start;
     flex-wrap: nowrap;
