@@ -96,6 +96,24 @@
     width: 300px;
 }
 
+.company-history {
+    margin-top: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    gap: 20px;
+}
+
+.company-history img {
+    width: 400px;
+}
+
+.text-detail {
+    font-size: medium;
+    font-style: italic;
+}
 
 @media screen and (max-width: 900px) {
 
@@ -114,4 +132,7 @@
         font-size: x-large;
     }
 
+    .company-history {
+        flex-wrap: wrap;
+    }
 }
